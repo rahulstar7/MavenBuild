@@ -1,8 +1,4 @@
 HELP.md
- rahul1 - Copy (2).txt
- rahul1 - Copy.txt
- rahul1.txt
-
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -16,7 +12,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
-
+.txt
 ### IntelliJ IDEA ###
 .idea
 *.iws
